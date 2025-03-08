@@ -29,7 +29,7 @@ export function Layout251() {
           <div>
             <div className="mb-6 md:mb-8">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
+                src="/images/Seeds.jpg"
                 alt="Relume placeholder image"
               />
             </div>
@@ -41,7 +41,7 @@ export function Layout251() {
           <div>
             <div className="mb-6 md:mb-8">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
+                src="/images/innovative tool.jpg"
                 alt="Relume placeholder image"
               />
             </div>
@@ -53,7 +53,7 @@ export function Layout251() {
           <div>
             <div className="mb-6 md:mb-8">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
+                src="/images/fertilizers.jpg"
                 alt="Relume placeholder image"
               />
             </div>

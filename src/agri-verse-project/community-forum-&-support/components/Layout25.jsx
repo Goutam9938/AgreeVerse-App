@@ -47,7 +47,7 @@ export function Layout25() {
             </div>
           </div>
           <img
-            src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+            src="/images/if2.jpg"
             className="w-full object-cover"
             alt="Relume placeholder image"
           />

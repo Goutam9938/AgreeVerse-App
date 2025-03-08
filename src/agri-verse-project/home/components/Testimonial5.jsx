@@ -34,7 +34,7 @@ export function Testimonial5() {
                 />
               </div>
               <div className="mb-4 md:mb-0">
-                <p className="font-semibold">John Doe</p>
+                <p className="font-semibold">Rabi Bissoyi</p>
                 <p>Farmer, Local Farm</p>
               </div>
               <div className="hidden w-px self-stretch bg-black md:block" />
@@ -67,7 +67,7 @@ export function Testimonial5() {
                 />
               </div>
               <div className="mb-4 md:mb-0">
-                <p className="font-semibold">Jane Smith</p>
+                <p className="font-semibold">Hemalata Majhi</p>
                 <p>Buyer, Grocery Store</p>
               </div>
               <div className="hidden w-px self-stretch bg-black md:block" />

@@ -32,7 +32,7 @@ export function Header76() {
               <div className="relative w-full pt-[120%]">
                 <img
                   className="absolute inset-0 size-full object-cover"
-                  src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                  src="/images/f1.jpg"
                   alt="Relume placeholder image 1"
                 />
               </div>
@@ -41,7 +41,7 @@ export function Header76() {
               <div className="relative w-full pt-[120%]">
                 <img
                   className="absolute inset-0 size-full object-cover"
-                  src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                  src="/images/f2.jpg"
                   alt="Relume placeholder image 2"
                 />
               </div>
@@ -50,7 +50,7 @@ export function Header76() {
               <div className="relative w-full pt-[120%]">
                 <img
                   className="absolute inset-0 size-full object-cover"
-                  src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                  src="/images/f3.jpg"
                   alt="Relume placeholder image 3"
                 />
               </div>
@@ -59,7 +59,7 @@ export function Header76() {
               <div className="relative w-full pt-[120%]">
                 <img
                   className="absolute inset-0 size-full object-cover"
-                  src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                  src="/images/f4.webp"
                   alt="Relume placeholder image 4"
                 />
               </div>
@@ -68,7 +68,7 @@ export function Header76() {
               <div className="relative w-full pt-[120%]">
                 <img
                   className="absolute inset-0 size-full object-cover"
-                  src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                  src="/images/f5.jpg"
                   alt="Relume placeholder image 5"
                 />
               </div>
@@ -77,7 +77,7 @@ export function Header76() {
               <div className="relative w-full pt-[120%]">
                 <img
                   className="absolute inset-0 size-full object-cover"
-                  src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                  src="/images/f6.jpeg"
                   alt="Relume placeholder image 6"
                 />
               </div>
@@ -88,7 +88,7 @@ export function Header76() {
               <div className="relative w-full pt-[120%]">
                 <img
                   className="absolute inset-0 size-full object-cover"
-                  src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                  src="/images/f7.webp"
                   alt="Relume placeholder image 1"
                 />
               </div>
@@ -97,7 +97,7 @@ export function Header76() {
               <div className="relative w-full pt-[120%]">
                 <img
                   className="absolute inset-0 size-full object-cover"
-                  src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                  src="/images/f8.jpg"
                   alt="Relume placeholder image 2"
                 />
               </div>
@@ -106,7 +106,7 @@ export function Header76() {
               <div className="relative w-full pt-[120%]">
                 <img
                   className="absolute inset-0 size-full object-cover"
-                  src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                  src="/images/f9.jpg"
                   alt="Relume placeholder image 3"
                 />
               </div>
@@ -115,7 +115,7 @@ export function Header76() {
               <div className="relative w-full pt-[120%]">
                 <img
                   className="absolute inset-0 size-full object-cover"
-                  src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                  src="/images/f10.jpg"
                   alt="Relume placeholder image 4"
                 />
               </div>
@@ -124,7 +124,7 @@ export function Header76() {
               <div className="relative w-full pt-[120%]">
                 <img
                   className="absolute inset-0 size-full object-cover"
-                  src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                  src="/images/f11.jfif"
                   alt="Relume placeholder image 5"
                 />
               </div>
@@ -133,7 +133,7 @@ export function Header76() {
               <div className="relative w-full pt-[120%]">
                 <img
                   className="absolute inset-0 size-full object-cover"
-                  src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                  src="/images/f12.jpg"
                   alt="Relume placeholder image 6"
                 />
               </div>

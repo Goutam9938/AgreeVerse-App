@@ -40,7 +40,7 @@ export function Layout6() {
           </div>
           <div>
             <img
-              src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+              src="/images/f13.jpg"
               className="w-full object-cover"
               alt="Relume placeholder image"
             />

@@ -19,7 +19,7 @@ export function Layout250() {
           <div className="flex flex-col">
             <div className="mb-6 md:mb-8">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
+                src="/images/a1.avif"
                 alt="Relume placeholder image"
               />
             </div>
@@ -40,7 +40,7 @@ export function Layout250() {
           <div className="flex flex-col">
             <div className="mb-6 md:mb-8">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
+                src="/images/a2.jpg"
                 alt="Relume placeholder image"
               />
             </div>
@@ -60,7 +60,7 @@ export function Layout250() {
           <div className="flex flex-col">
             <div className="mb-6 md:mb-8">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
+                src="/images/a3.jpg"
                 alt="Relume placeholder image"
               />
             </div>

@@ -71,7 +71,7 @@ export function Product5() {
                 <a href="#" className="font-semibold md:text-md">
                   <div className="mb-3 block aspect-[5/6] md:mb-4">
                     <img
-                      src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                      src="/images/os.webp"
                       alt="Relume placeholder image"
                       className="size-full object-cover"
                     />
@@ -80,14 +80,14 @@ export function Product5() {
                     <h3>Organic Seeds</h3>
                     <div className="text-sm font-normal">Seeds</div>
                   </div>
-                  <div className="text-md md:text-lg">$55</div>
+                  <div className="text-md md:text-lg">₹169</div>
                 </a>
               </CarouselItem>
               <CarouselItem className="basis-[95%] pl-0 pr-6 sm:basis-4/5 md:basis-1/2 md:pr-8 lg:basis-1/4">
                 <a href="#" className="font-semibold md:text-md">
                   <div className="mb-3 block aspect-[5/6] md:mb-4">
                     <img
-                      src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                      src="/images/fm.jpg"
                       alt="Relume placeholder image"
                       className="size-full object-cover"
                     />
@@ -96,14 +96,14 @@ export function Product5() {
                     <h3>Fertilizer Mix</h3>
                     <div className="text-sm font-normal">Mix</div>
                   </div>
-                  <div className="text-md md:text-lg">$55</div>
+                  <div className="text-md md:text-lg">₹399</div>
                 </a>
               </CarouselItem>
               <CarouselItem className="basis-[95%] pl-0 pr-6 sm:basis-4/5 md:basis-1/2 md:pr-8 lg:basis-1/4">
                 <a href="#" className="font-semibold md:text-md">
                   <div className="mb-3 block aspect-[5/6] md:mb-4">
                     <img
-                      src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                      src="/images/ps.webp"
                       alt="Relume placeholder image"
                       className="size-full object-cover"
                     />
@@ -112,14 +112,14 @@ export function Product5() {
                     <h3>Pesticide Spray</h3>
                     <div className="text-sm font-normal">Spray</div>
                   </div>
-                  <div className="text-md md:text-lg">$55</div>
+                  <div className="text-md md:text-lg">₹219</div>
                 </a>
               </CarouselItem>
               <CarouselItem className="basis-[95%] pl-0 pr-6 sm:basis-4/5 md:basis-1/2 md:pr-8 lg:basis-1/4">
                 <a href="#" className="font-semibold md:text-md">
                   <div className="mb-3 block aspect-[5/6] md:mb-4">
                     <img
-                      src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                      src="/images/gt.webp"
                       alt="Relume placeholder image"
                       className="size-full object-cover"
                     />
@@ -128,14 +128,14 @@ export function Product5() {
                     <h3>Garden Tools</h3>
                     <div className="text-sm font-normal">Tools</div>
                   </div>
-                  <div className="text-md md:text-lg">$55</div>
+                  <div className="text-md md:text-lg">₹549</div>
                 </a>
               </CarouselItem>
               <CarouselItem className="basis-[95%] pl-0 pr-6 sm:basis-4/5 md:basis-1/2 md:pr-8 lg:basis-1/4">
                 <a href="#" className="font-semibold md:text-md">
                   <div className="mb-3 block aspect-[5/6] md:mb-4">
                     <img
-                      src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                      src="/images/is.webp"
                       alt="Relume placeholder image"
                       className="size-full object-cover"
                     />
@@ -144,14 +144,14 @@ export function Product5() {
                     <h3>Irrigation System</h3>
                     <div className="text-sm font-normal">System</div>
                   </div>
-                  <div className="text-md md:text-lg">$55</div>
+                  <div className="text-md md:text-lg">₹799</div>
                 </a>
               </CarouselItem>
               <CarouselItem className="basis-[95%] pl-0 pr-6 sm:basis-4/5 md:basis-1/2 md:pr-8 lg:basis-1/4">
                 <a href="#" className="font-semibold md:text-md">
                   <div className="mb-3 block aspect-[5/6] md:mb-4">
                     <img
-                      src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                      src="/images/st.jpg"
                       alt="Relume placeholder image"
                       className="size-full object-cover"
                     />
@@ -160,14 +160,14 @@ export function Product5() {
                     <h3>Soil Tester</h3>
                     <div className="text-sm font-normal">Tester</div>
                   </div>
-                  <div className="text-md md:text-lg">$55</div>
+                  <div className="text-md md:text-lg">₹479</div>
                 </a>
               </CarouselItem>
               <CarouselItem className="basis-[95%] pl-0 pr-6 sm:basis-4/5 md:basis-1/2 md:pr-8 lg:basis-1/4">
                 <a href="#" className="font-semibold md:text-md">
                   <div className="mb-3 block aspect-[5/6] md:mb-4">
                     <img
-                      src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+                      src="/images/ps.webp"
                       alt="Relume placeholder image"
                       className="size-full object-cover"
                     />
@@ -176,7 +176,7 @@ export function Product5() {
                     <h3>Compost Bin</h3>
                     <div className="text-sm font-normal">Bin</div>
                   </div>
-                  <div className="text-md md:text-lg">$55</div>
+                  <div className="text-md md:text-lg">₹1849</div>
                 </a>
               </CarouselItem>
             </CarouselContent>
