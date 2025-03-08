@@ -19,71 +19,49 @@ export function Content28() {
                 <h2 id="heading-2">Soil Health</h2>
                 <p>
                   <strong>
-                    Dolor enim eu tortor urna sed duis nulla. Aliquam
-                    vestibulum, nulla odio nisl vitae. In aliquet pellentesque
-                    aenean hac vestibulum turpis mi bibendum diam. Tempor
-                    integer aliquam in vitae malesuada fringilla.
+                    Soil health is crucial for sustainable agriculture and high crop yields. Healthy soil is rich in organic matter, has good structure, retains moisture well, and supports diverse microbial life. Farmers can maintain soil health by practicing crop rotation, using cover crops, and applying organic fertilizers.
                   </strong>
                 </p>
                 <p>
-                  Mi tincidunt elit, id quisque ligula ac diam, amet. Vel etiam
-                  suspendisse morbi eleifend faucibus eget vestibulum felis.
-                  Dictum quis montes, sit sit. Tellus aliquam enim urna, etiam.
-                  Mauris posuere vulputate arcu amet, vitae nisi, tellus
-                  tincidunt. At feugiat sapien varius id.
+                  Testing soil regularly helps in understanding nutrient levels and pH balance, ensuring that the soil provides optimal conditions for plant growth. Avoiding excessive chemical fertilizers and pesticides also preserves soil biodiversity.
                 </p>
                 <h3 id="heading-3">Crop Selection</h3>
                 <p>
-                  Eget quis mi enim, leo lacinia pharetra, semper. Eget in
-                  volutpat mollis at volutpat lectus velit, sed auctor.
-                  Porttitor fames arcu quis fusce augue enim. Quis at habitant
-                  diam at. Suscipit tristique risus, at donec. In turpis vel et
-                  quam imperdiet. Ipsum molestie aliquet sodales id est ac
-                  volutpat.
+                  Choosing the right crops depends on factors like climate, soil type, water availability, and market demand. Farmers should consider crop rotation strategies to prevent soil depletion and reduce pest infestations.
                 </p>
                 <p>
-                  Tristique odio senectus nam posuere ornare leo metus,
-                  ultricies. Blandit duis ultricies vulputate morbi feugiat cras
-                  placerat elit. Aliquam tellus lorem sed ac. Montes, sed mattis
-                  pellentesque suscipit accumsan. Cursus viverra aenean magna
-                  risus elementum faucibus molestie pellentesque. Arcu ultricies
-                  sed mauris vestibulum.
+                  Selecting drought-resistant crops in water-scarce regions and pest-resistant varieties can help ensure better yields. Additionally, integrating intercropping methods can improve soil fertility and increase overall productivity.
                 </p>
                 <h4 id="heading-4">Irrigation Techniques</h4>
                 <p>
-                  Morbi sed imperdiet in ipsum, adipiscing elit dui lectus.
-                  Tellus id scelerisque est ultricies ultricies. Duis est sit
-                  sed leo nisl, blandit elit sagittis. Quisque tristique
-                  consequat quam sed. Nisl at scelerisque amet nulla purus
-                  habitasse.
+                  Efficient irrigation techniques are essential to ensure that crops receive the right amount of water without wastage. Methods such as drip irrigation, sprinkler systems, and rainwater harvesting can help optimize water usage.
+                </p>
+                <p>
+                  Implementing soil moisture sensors can help farmers determine when and how much to irrigate. Using mulch around plants can also reduce water evaporation and maintain soil moisture levels.
                 </p>
                 <figure>
                   <img
-                    src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
+                    src="/images/et.jpg"
                     alt="Relume placeholder image"
                   />
-                  <figcaption>Image caption goes here</figcaption>
+                  <figcaption>Efficient irrigation techniques help conserve water.</figcaption>
                 </figure>
                 <h5 id="heading-5">Pest Management</h5>
                 <p>
-                  Morbi sed imperdiet in ipsum, adipiscing elit dui lectus.
-                  Tellus id scelerisque est ultricies ultricies. Duis est sit
-                  sed leo nisl, blandit elit sagittis. Quisque tristique
-                  consequat quam sed. Nisl at scelerisque amet nulla purus
-                  habitasse.
+                  Integrated Pest Management (IPM) is an effective approach to controlling pests while minimizing environmental damage. It involves using natural predators, crop rotation, resistant plant varieties, and organic pesticides.
+                </p>
+                <p>
+                  Regular field monitoring and early detection of pest infestations can prevent large-scale crop damage. Using neem-based products and biological pest control methods also reduces dependency on chemical pesticides.
                 </p>
                 <blockquote>
-                  "Ipsum sit mattis nulla quam nulla. Gravida id gravida ac enim
-                  mauris id. Non pellentesque congue eget consectetur turpis.
-                  Sapien, dictum molestie sem tempor. Diam elit, orci, tincidunt
-                  aenean tempus."
+                  "A well-managed pest control strategy not only protects crops but also maintains ecological balance, ensuring long-term agricultural sustainability."
                 </blockquote>
-                <h6 id="heading-5">Harvesting Tips</h6>
+                <h6 id="heading-6">Harvesting Tips</h6>
                 <p>
-                  Nunc sed faucibus bibendum feugiat sed interdum. Ipsum egestas
-                  condimentum mi massa. In tincidunt pharetra consectetur sed
-                  duis facilisis metus. Etiam egestas in nec sed et. Quis
-                  lobortis at sit dictum eget nibh tortor commodo cursus.
+                  Harvesting crops at the right time ensures maximum yield and quality. Timing varies based on the crop type, weather conditions, and intended use (fresh consumption or storage).
+                </p>
+                <p>
+                  Using proper harvesting tools and techniques reduces damage to crops. After harvesting, proper storage methods such as drying, refrigeration, or controlled atmosphere storage help in preserving produce quality and preventing spoilage.
                 </p>
               </Fragment>
             </div>

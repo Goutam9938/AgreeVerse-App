@@ -26,7 +26,7 @@ export function Layout239() {
             <div className="flex w-full flex-col items-center text-center">
               <div className="rb-6 mb-6 md:mb-8">
                 <img
-                  src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
+                  src="/images/fat.jpg"
                   alt="Relume placeholder image"
                 />
               </div>
@@ -41,7 +41,7 @@ export function Layout239() {
             <div className="flex w-full flex-col items-center text-center">
               <div className="rb-6 mb-6 md:mb-8">
                 <img
-                  src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
+                  src="/images/ms.png"
                   alt="Relume placeholder image"
                 />
               </div>
@@ -53,7 +53,7 @@ export function Layout239() {
             <div className="flex w-full flex-col items-center text-center">
               <div className="rb-6 mb-6 md:mb-8">
                 <img
-                  src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
+                  src="/images/govt.jpg"
                   alt="Relume placeholder image"
                 />
               </div>
